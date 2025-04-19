@@ -1,0 +1,52 @@
+///////////////////////////////////////////////////
+_________ _______  _______  _______  __    ______  
+\__    _/(  ___  )(  ___  )(  ___  )/  \  / ___  \ 
+   )  (  | (   ) || (   ) || (   ) |\/) ) \/   \  \
+   |  |  | |   | || (___) || |   | |  | |    ___) /
+   |  |  | |   | ||  ___  || |   | |  | |   (___ ( 
+   |  |  | |   | || (   ) || |   | |  | |       ) \
+|\_)  )  | (___) || )   ( || (___) |__) (_/\___/  /
+(____/   (_______)|/     \|(_______)\____/\______/ 
+                                                   
+///////////////////////////////////////////////////
+
+
+❖ O mais completo site para se baixar traduções para as mais diversas
+plataformas. Além de encontrar também notícias, ferramentas, saves etc ❖
+
+
+
+Melhor visualizável com fonte 'Consolas > Regular' com tamanho '11',
+com 'quebra automática de linha'.
+
+
+______________________________
+☩☩☩☩ Créditos ☩☩☩☩
+——————————————————————————————
+
+TRADUTORES RESPONSÁVEIS:
+Autor: gdkchan
+
+LANÇAMENTO DA TRADUÇÃO:
+Versão: Beta 1 (29/06/2014)
+
+ESTADO DA TRADUÇÃO: 
+Textos: 100%
+Acentos: 100%
+Gráficos: 0%
+Revisão: ??%
+
+OBSERVAÇÃO:
+• Ouvi dizer que o jogo trava no Flashcard ao upar algum Pokémon.
+
+ROM:
+1015 - Pokemon Diamond (U).nds, com CRC32 84427823
+
+
+❖
+❖
+
+
+/////////////////////////
+|| joao13traducoes.com ||
+/////////////////////////
