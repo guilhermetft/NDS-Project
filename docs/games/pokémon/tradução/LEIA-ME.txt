@@ -1,0 +1,78 @@
+///////////////////////////////////////////////////
+_________ _______  _______  _______  __    ______  
+\__    _/(  ___  )(  ___  )(  ___  )/  \  / ___  \ 
+   )  (  | (   ) || (   ) || (   ) |\/) ) \/   \  \
+   |  |  | |   | || (___) || |   | |  | |    ___) /
+   |  |  | |   | ||  ___  || |   | |  | |   (___ ( 
+   |  |  | |   | || (   ) || |   | |  | |       ) \
+|\_)  )  | (___) || )   ( || (___) |__) (_/\___/  /
+(____/   (_______)|/     \|(_______)\____/\______/ 
+                                                   
+///////////////////////////////////////////////////
+
+
+❖ O mais completo site para se baixar traduções para as mais diversas
+plataformas. Além de encontrar também notícias, ferramentas, saves etc ❖
+
+
+
+Melhor visualizável com fonte 'Consolas > Regular' com tamanho '11',
+com 'quebra automática de linha'.
+
+
+______________________________
+☩☩☩☩ Créditos ☩☩☩☩
+——————————————————————————————
+
+TRADUTORES RESPONSÁVEIS:
+Tradução: Maldonny
+Gráficos: Kosmus
+
+LANÇAMENTO DA TRADUÇÃO:
+Versão: 1.2.0 (07/11/2021)
+Versão: 1.1.1 (12/09/2021)
+Versão: 1.1.0 (11/09/2021)
+Versão: 1.0.1 (21/03/2021)
+Versão: 1.0 (13/03/2021)
+
+GRUPOS:
+E4T (Elite dos Quatro Traduções)
+
+ESTADO DA TRADUÇÃO: 
+Textos: 100%
+Acentos: 100%
+Gráficos: 100%
+Revisão: 100%
+
+NOVIDADES DAS VERSÕES:
+1.2.0
+• Gráfico: LV e status de batalha foram modificados;
+• Gráfico: Gravador Vs. foram alterados;
+• Revisado descrição das habilidades;
+• Diálogos da TV foram completamente traduzidos e corrigidos;
+• Corrigido defeito no plural dos itens;
+• Erros de digitação foram corrigidos.
+1.1.1
+O patch anterior não estava aplicando na rom. Corrigido.
+1.1.0
+• Diversos erros de digitação foram corrigidos;
+• Descrição dos movimentos para Concursos foram corrigidos;
+• Boa parte dos gráficos foram traduzidos;
+• Bug nos itens do subsolo foram corrigidos;
+• Diversos diálogos foram melhorados;
+• Nomes de itens e movimentos foram adaptados seguindo a versăo mais atual do Banco de Dados da E4 Traduçőes.
+1.0.1
+• Diversos erros de digitação foram corrigos;
+• Descrição dos movimentos para Concursos foram corrigidos.
+
+ROM:
+3541 - Pokemon Platinum Version (US)(XenoPhobia).nds, com CRC32 1D8A5220
+
+
+❖
+❖
+
+
+/////////////////////////
+|| joao13traducoes.com ||
+/////////////////////////

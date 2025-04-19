@@ -1,0 +1,68 @@
+++++++++++++++++++++++++++++ Pokémon Platinum - Pokémon Platina ++++++++++++++++++++++++++++++++++++++++++
+
+Pokémon Platinum Version  é um RPG eletrônico da série Pokémon desenvolvido pela Game Freak e publicado 
+pela Nintendo para o Nintendo DS. É a costumeira versão melhorada do jogo anterior da série, 
+Pokémon Diamond e Pearl no caso. Foi lançado em 13 de setembro de 2008 no Japão e em 22 de março de 2009 
+na América do Norte e na Europa. (Wikipedia)
+
+===========================================================================================================
+INFORMAÇÕES
+
+Informações sobre a ROM:
+	Nome Original:    3541 - Pokemon Platinum Version (US)(XenoPhobia).nds
+	Idioma Original:  Inglês (USA)
+	Idioma Traduzido: Português (BR)
+	CRC:              1D8A5220
+	Serial:           NTR-CPUE-USA
+
+Sobre a Tradução:
+	Textos:         100%
+        Gráficos:       100%
+	Revisão:        100%
+	Versão:         1.2.0
+	Lançamento:     13/03/2021
+        Atualização:    07/11/2021
+
+Tradução: Maldonny
+Gráficos: Kosmus | Shokai | Maldonny
+
+============================================================================================================
+NOTAS DO TRADUTOR:
+
+	- Neste projeto, além dos diálogos, foi traduzido os nomes dos movimentos (moves), 
+Habilidades (ability), Naturezas (natures) e itens.
+Optei por utilizar os "Banco de Dados" desenvolvido pela Elite dos Quatro Traduções.
+Essas informações podem ser encontradas em: https://www.e4t.com.br/
+
+============================================================================================================
+CHANGELOG:
+
+> 1.0.0 (13/03/2021):
+ - Versão Inicial pública.
+
+> 1.0.1 (21/03/2021):
+ - Diversos erros de digitação foram corrigos.
+ - Descrição dos movimentos para Concursos foram corrigidos.
+
+> 1.1.0 (11/09/2021):
+ - Boa parte dos gráficos foram traduzidos.
+ - Erros no Subsolo foram corrigidos.
+ - Diversos diálogos foram melhorados.
+ - Nomes de itens e movimentos foram adaptados seguindo a versão mais atual do Banco de Dados da E4 Traduções.
+
+> 1.2.0 (07/11/2021)
+ - Gráfico: LV e status de batalha foram modificados.
+ - Gráfico: Gravador Vs. foram alterados.
+ - Revisado descrição das habilidades.
+ - Diálogos da TV foram completamente traduzidos e corrigidos.
+ - Corrigido defeito no plural dos itens.
+ - Erros de digitação foram corrigidos.
+
+============================================================================================================
+CONTATO:
+
+Encontrou algum erro na tradução?
+Encaminhe uma foto ou print do erro para: maldonny@hotmail.com	
+
+As versões mais atualizadas desta e de outras traduções podem ser encontradas no site da E4T:
+https://www.e4t.com.br

@@ -1,0 +1,37 @@
+///////////////////////////////////////////////////
+_________ _______  _______  _______  __    ______  
+\__    _/(  ___  )(  ___  )(  ___  )/  \  / ___  \ 
+   )  (  | (   ) || (   ) || (   ) |\/) ) \/   \  \
+   |  |  | |   | || (___) || |   | |  | |    ___) /
+   |  |  | |   | ||  ___  || |   | |  | |   (___ ( 
+   |  |  | |   | || (   ) || |   | |  | |       ) \
+|\_)  )  | (___) || )   ( || (___) |__) (_/\___/  /
+(____/   (_______)|/     \|(_______)\____/\______/ 
+                                                   
+///////////////////////////////////////////////////
+
+
+
+Melhor visualizável com fonte 'Consolas > Regular' com tamanho '11',
+com 'quebra automática de linha'.
+
+
+
+❖ Você precisará utilizar um aplicador de patchs .xdelta. Escolha o
+de sua preferência abaixo. Aproveite e mantenha-o guardado, para
+caso você baixe outro patch. ❖
+
+______________________________
+☩☩☩☩ Delta Patcher ☩☩☩☩
+——————————————————————————————
+
+https://joao13traducoes.com/2021/12/delta-patcher/
+
+
+❖
+❖
+
+
+/////////////////////////
+|| joao13traducoes.com ||
+/////////////////////////
